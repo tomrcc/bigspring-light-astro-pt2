@@ -1,4 +1,5 @@
 ---
+_schema: default
 title: What you need to know about Photography
 description: >-
   Heading example Here is example of hedings. You can use this heading by
@@ -21,7 +22,7 @@ Nemo vel ad consectetur namut rutrum ex, venenatis sollicitudin urna. Aliquam er
 
 Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo vel ad consectetur ut aperiam. Itaque eligendi natus aperiam? Excepturi repellendus consequatur quibusdam optio expedita praesentium est adipisci dolorem ut eius!
 
-<img src="/uploads/square-portrait.png" alt="Tom" height="1625" width="1625" />
+<img src="/images/square-portrait.png" alt="Tom" height="1625" width="1625" />
 
 ## Creative Design
 
